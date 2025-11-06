@@ -27,6 +27,7 @@ dependencies = [
     "numpy",
     "pandas",
     "argparse",
+    "matplotlib",
     "datetime",
     "importlib.resources"
 ]
