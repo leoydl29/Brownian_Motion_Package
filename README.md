@@ -5,7 +5,7 @@
 To install, run:
 ```bash
 git clone https://github.com/yourusername/pygbm_package.git
-cd pygbm_package
+cd Brownian_Motion_Package
 pip install -e .
 ```
 
